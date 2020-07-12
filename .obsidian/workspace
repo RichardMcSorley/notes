@@ -1,0 +1,80 @@
+{
+  "main": {
+    "id": "f67fb7c0784fcd7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a3e70edf4052ffa",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/Dungeons and Dragons/Characters/Therin Ilphelkir/Inventory.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b62f7a162bc4c81",
+    "type": "split",
+    "children": [
+      {
+        "id": "fefd68e875817585",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76f71e17fa6c46bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba0d22e040241c14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "06e8a531aebc4f61",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b7b56113be7c5bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad9c1b6c26f2585b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "docs/Dungeons and Dragons/Therin Ilphelkir/Inventory.md",
+    "docs/Dungeons and Dragons/Therin Ilphelkir/Quests.md",
+    "docs/Dungeons and Dragons/Therin Ilphelkir/Stats.md",
+    "README.md.md",
+    "docs/Dungeons and Dragons/Therin Ilphelkir/Therin Ilphelkir.md"
+  ]
+}

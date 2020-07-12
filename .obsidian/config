@@ -1,0 +1,23 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true,
+    "Page preview": true,
+    "Custom CSS": true,
+    "Daily notes": true,
+    "Slides": true,
+    "Open with default app": true
+  },
+  "vimMode": true,
+  "showLineNumber": true,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true
+}
