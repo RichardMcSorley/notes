@@ -16,8 +16,29 @@
     "Open with default app": true
   },
   "vimMode": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "trashOption": "local",
   "newFileLocation": "current",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "/assets",
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "Spellcasting",
+    "rulebook",
+    "Spellbook",
+    "spellbook",
+    "cantrip",
+    "Proficiencies",
+    "Draconic",
+    "Dwarvish",
+    "shortswords",
+    "shortbows",
+    "quarlerstaffs",
+    "longswords",
+    "spellcasting",
+    "Oghma",
+    "Prestigitation",
+    "Cantrips"
+  ]
 }

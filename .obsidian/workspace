@@ -4,16 +4,155 @@
     "type": "split",
     "children": [
       {
-        "id": "0a3e70edf4052ffa",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
+        "id": "2bd13ad4729f17f5",
+        "type": "split",
+        "dimension": 9.235668789808917,
+        "children": [
+          {
+            "id": "53150b8a25ccda01",
+            "type": "leaf",
+            "dimension": 27.39938080495356,
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Dungeons and Dragons/Characters/Therin Ilphelkir/Stats.md",
+                "mode": "preview"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "de5dfe7d24a1baa8",
+            "type": "leaf",
+            "dimension": 72.60061919504643,
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Dungeons and Dragons/Characters/Therin Ilphelkir/Skills.md",
+                "mode": "preview"
+              },
+              "pinned": true
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "66de0777d5d9ca76",
+        "type": "split",
+        "dimension": 75.47770700636943,
+        "children": [
+          {
+            "id": "db366c6037b61748",
+            "type": "split",
+            "dimension": 15.866873065015476,
+            "children": [
+              {
+                "id": "b8b8e9a0ca54b858",
+                "type": "leaf",
+                "dimension": 66.11814345991561,
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "docs/Dungeons and Dragons/Characters/Therin Ilphelkir/StatBox.md",
+                    "mode": "preview"
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "355f8a48b6966af4",
+                "type": "leaf",
+                "dimension": 33.881856540084385,
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "docs/Dungeons and Dragons/Characters/Therin Ilphelkir/Quests.md",
+                    "mode": "preview"
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "8ad9c9b8868681e4",
+            "type": "split",
+            "dimension": 84.13312693498453,
+            "children": [
+              {
+                "id": "fbde3f33ada4a7d1",
+                "type": "leaf",
+                "dimension": 55.949367088607595,
+                "active": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "preview"
+                  }
+                }
+              },
+              {
+                "id": "3c672a422e24d66c",
+                "type": "leaf",
+                "dimension": 44.050632911392405,
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "docs/Dungeons and Dragons/Characters/Therin Ilphelkir/Gaining Levels.md",
+                    "mode": "preview"
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "91719789a7791dd9",
+        "type": "split",
+        "dimension": 15.286624203821656,
+        "children": [
+          {
+            "id": "97b5b46b3d89e0e8",
+            "type": "leaf",
+            "dimension": 67.95665634674923,
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Dungeons and Dragons/Characters/Therin Ilphelkir/Inventory.md",
+                "mode": "preview"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "35e00fd370f48363",
+            "type": "leaf",
+            "dimension": 32.04334365325077,
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Dungeons and Dragons/Characters/Therin Ilphelkir/Spellbook.md",
+                "mode": "preview"
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -51,30 +190,16 @@
   "right": {
     "id": "06e8a531aebc4f61",
     "type": "split",
-    "children": [
-      {
-        "id": "5b7b56113be7c5bc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ad9c1b6c26f2585b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 300
+    "width": 597.5,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "README.md",
-    "docs/Dungeons and Dragons/Therin Ilphelkir/Inventory.md",
-    "docs/Dungeons and Dragons/Therin Ilphelkir/Quests.md",
-    "docs/Dungeons and Dragons/Therin Ilphelkir/Stats.md",
-    "README.md.md"
+    "assets/screenshot.png.png",
+    "Screen Shot 2020-07-12 at 4.24.46 PM.png",
+    "docs/Dungeons and Dragons/Characters/Therin Ilphelkir/Background.md",
+    "docs/Dungeons and Dragons/Characters/Therin Ilphelkir/Gaining Levels.md"
   ]
 }

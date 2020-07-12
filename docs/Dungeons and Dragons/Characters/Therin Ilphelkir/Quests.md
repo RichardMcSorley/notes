@@ -1,3 +1,3 @@
 # Quests
-- Find Bogental Spell book in ancient city of Iriabeor from the dude named Tezinor
-- Go to Goblin Enchampent, find our employeers Brother
+- [ ] Find [Bowgentle's Book](https://forgottenrealms.fandom.com/wiki/Bowgentle%27s_Book) in ancient city of [Iriaebor](https://forgottenrealms.fandom.com/wiki/Iriaebor) from the dude named Tezinor
+- [ ] Go to Goblin encampment, find our employeer's Brother 
