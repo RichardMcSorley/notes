@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Dungeons and Dragons/Characters/Therin Ilphelkir/Inventory.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -71,10 +71,10 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "README.md",
     "docs/Dungeons and Dragons/Therin Ilphelkir/Inventory.md",
     "docs/Dungeons and Dragons/Therin Ilphelkir/Quests.md",
     "docs/Dungeons and Dragons/Therin Ilphelkir/Stats.md",
-    "README.md.md",
-    "docs/Dungeons and Dragons/Therin Ilphelkir/Therin Ilphelkir.md"
+    "README.md.md"
   ]
 }

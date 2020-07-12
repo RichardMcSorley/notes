@@ -1,4 +1,5 @@
 # Notes
 
-My personal notes. Written in [Obsidian](https://obsidian.md/)
+My personal notes. Written with [Obsidian](https://obsidian.md/)
 
+Mostly D&D docs for now.
